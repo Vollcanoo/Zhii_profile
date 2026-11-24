@@ -1,7 +1,5 @@
 # Zhihan Dai — Bilingual Portfolio
 
-Two separate, complete language versions in the same Nordic-inspired visual system:
-
 - `index.html` — 中文版
 - `en.html` — English version
 
