@@ -21,10 +21,3 @@ Local game links point only to files included in this bundle:
 
 The two playable games have visible card-level play links in both language versions, as well as links in their detail dialogs.
 
-**MindPath, Disney / Enchanted Lantern, and ReID have no public link.** Their cards only open an on-page description; a small localized label says no public link is available. No inferred repositories, demo URLs, or placeholder links are added.
-
-## Publishing
-
-Upload `index.html`, `en.html`, `projects/`, and `README.md` together to a GitHub Pages repository. Select Settings → Pages → Deploy from a branch.
-
-Google Fonts are optional; system-font fallback works without an Internet connection.
